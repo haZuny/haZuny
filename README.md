@@ -1,5 +1,4 @@
 ### Hi there 👋
-초보 개발자 입니다.
 
 <!--
 **haZuny/haZuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
