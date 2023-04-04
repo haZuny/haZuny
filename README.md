@@ -4,7 +4,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=GitHub%20of%20haZuny&fontSize=60)
   
-  ###### contact me
+  #### 🎈 contact me 🎈
   <a href="https://github.com/haZuny" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="mailto:gkwns5791@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:hj3175791@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
