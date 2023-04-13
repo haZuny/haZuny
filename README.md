@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=GitHub%20of%20haZuny&fontSize=60)
+<!--   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=GitHub%20of%20haZuny&fontSize=60) -->
   
   #### 🎈 Contact me 🎈
  
