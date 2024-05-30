@@ -13,10 +13,10 @@
     - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
   ### 🎈 Career
-  - [2020.08]            ***멋쟁이사자처럼 at 순천향대학교 8기 학생 과정 수료***
-  - [2022.03 ~ 2023.12]  ***순천향대학교 객체지향연구실(OOPSLA) 학부연구생 소속***
-  - [2022 ~ 2023]        ***GDSC at 순천향대학교 Core Team Member 수료***
-  - [2024.02]            ***순천향대학교 컴퓨터공학과 졸업***
+  - ***멋쟁이사자처럼 at 순천향대학교 8기 학생 과정 수료*** (2020.04 ~ 2020.12)
+  - ***순천향대학교 객체지향연구실(OOPSLA) 학부연구생 소속*** (2022.03 ~ 2023.12)
+  - ***GDSC at 순천향대학교 Core Team Member 수료*** (2022 ~ 2023)
+  - ***순천향대학교 컴퓨터공학과 졸업*** (2024.02)
 
   ### 💡 Projects
   - [시각장애인을 위한 종이 활자 책 리딩 앱](https://github.com/haZuny/OOPSLA-reading-book-app)
