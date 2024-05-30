@@ -12,7 +12,7 @@
   - ***Data Base***
     - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=springsecurity&logoColor=white"> 
   - ***Extra Skills***
-    - <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
   ### 🎈 Career 🎈
   - 2020.08            멋쟁이사자처럼 at 순천향대학교 8기 학생 과정 수료
