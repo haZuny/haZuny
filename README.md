@@ -23,7 +23,7 @@
   - [휴지통 위치 추천 어플](https://github.com/haZuny/SCH-trashcan-map-app)
   - [공사 현장 안전 관리 애플리케이션](https://github.com/haZuny/GDSC-solution-challenge-cherry)
   - [나의 목표 트래킹을 도와주는 어플리케이션](https://github.com/haZuny/GDSC-goal-tracker_application)
-  - [위헙 소리 분류 애플리케이션](https://github.com/haZuny/emergency-sound-notification-app)
+  - [위험 소리 분류 애플리케이션](https://github.com/haZuny/emergency-sound-notification-app)
   
   ### 📞 Contact me
  
