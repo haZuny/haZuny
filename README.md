@@ -4,6 +4,7 @@
   
 <!--   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=GitHub%20of%20haZuny&fontSize=60) -->
 
+<div style="text-align: center;">
   # 안녕하세요. 고민하는 개발자 권하준 입니다.🙇‍♂️
 
   ### 🛠 Skills 🛠
@@ -44,4 +45,4 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haZuny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
-
+</div>
