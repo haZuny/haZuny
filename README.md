@@ -4,7 +4,8 @@
   
 <!--   ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=GitHub%20of%20haZuny&fontSize=60) -->
 
-<div style="text-align: center;">
+<div align="center">
+  
   # 안녕하세요. 고민하는 개발자 권하준 입니다.🙇‍♂️
 
   ### 🛠 Skills 🛠
