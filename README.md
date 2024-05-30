@@ -18,12 +18,12 @@
   - ***GDSC at 순천향대학교 Core Team Member 수료*** (2022 ~ 2023)
   - ***순천향대학교 컴퓨터공학과 졸업*** (2019.03 ~ 2024.02)
 
-  ### 💡 Projects
-  - [시각장애인을 위한 종이 활자 책 리딩 앱](https://github.com/haZuny/OOPSLA-reading-book-app)
-  - [휴지통 위치 추천 어플](https://github.com/haZuny/SCH-trashcan-map-app)
-  - [공사 현장 안전 관리 애플리케이션](https://github.com/haZuny/GDSC-solution-challenge-cherry)
-  - [나의 목표 트래킹을 도와주는 어플리케이션](https://github.com/haZuny/GDSC-goal-tracker_application)
-  - [위험 소리 분류 애플리케이션](https://github.com/haZuny/emergency-sound-notification-app)
+  ### 💡 Side Projects
+  - ***[SCH.공과대.학술제]시각장애인을 위한 종이 활자 책 리딩 앱*** (2022) [GitHub](https://github.com/haZuny/OOPSLA-reading-book-app)
+  - ***[SCH.공과대.학술제]휴지통 위치 추천 어플*** (2022) [GitHub](https://github.com/haZuny/SCH-trashcan-map-app)
+  - ***나의 목표 트래킹을 도와주는 어플리케이션*** (2023) [GitHub](https://github.com/haZuny/GDSC-goal-tracker_application)
+  - ***[GDSC.SolutionChallenge]공사 현장 안전 관리 애플리케이션*** (2023) [GitHub](https://github.com/haZuny/GDSC-solution-challenge-cherry)
+  - ***[SCH.학사학위졸업논문]위험 소리 분류 애플리케이션*** (2023) [GitHub](https://github.com/haZuny/emergency-sound-notification-app)
   
   ### 📞 Contact me
  
