@@ -8,7 +8,7 @@
   - ***Database***
     - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=springsecurity&logoColor=white"> 
   - ***Extra Skills***
-    - ***Flutter*** <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
+    - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> 
     - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
   ### 🎈 Career
